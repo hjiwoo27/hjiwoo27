@@ -12,7 +12,10 @@
 
 
 <img src="https://img.shields.io/badge/ros-%2322314E.svg?&style=for-the-badge&logo=ros&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" /> </a>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=for-the-badge&logo=ros&logoColor=white" /> </a>
+<img src="https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=ros&logoColor=white" />
+
 
 <!--
 **hjiwoo27/hjiwoo27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
